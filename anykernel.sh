@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Flash Kernel for the OnePlus 6 by @nathanchance
+kernel.string=Franken Kernel for the OnePlus 6 by @dabug123
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
