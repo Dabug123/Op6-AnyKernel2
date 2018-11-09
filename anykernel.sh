@@ -4,12 +4,11 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Franken Kernel for the OnePlus 6 by @dabug123
-do.devicecheck=1
+kernel.string=Franken Kernel for the Pixel3 by @dabug123
+do.devicecheck=0
 do.modules=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=OnePlus6
 '; } # end properties
 
 # shell variables
